@@ -11,7 +11,7 @@
 
 ## 👫 팀원
 
-- FE 3인: [노선경(PM)](velog.io/@celline1637), [송가람](velog.io/@sgr2134), [임유진](velog.io/@1703979)
+- FE 3인: [노선경(PM)](velog.io/@celline1637), [송가람](velog.io/@sgr2134), [임유진(SM)](velog.io/@1703979)
 - BE 2인: [이승무](https://goback.oopy.io/), [최준식](https://velog.io/@junsikchoi) ([BE Reop](https://github.com/wecode-bootcamp-korea/20-2nd-tteokbokcom-backend))
 
 ## 📅 프로젝트 기간
